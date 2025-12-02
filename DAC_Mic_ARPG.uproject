@@ -3,6 +3,13 @@
 	"EngineAssociation": "{D833523C-44CE-1642-789B-62B265B408CE}",
 	"Category": "",
 	"Description": "",
+	"Modules": [
+		{
+			"Name": "DAC_Mic_ARPG",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
 	"Plugins": [
 		{
 			"Name": "ModelingToolsEditorMode",
